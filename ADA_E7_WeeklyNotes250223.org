@@ -1,1 +1,53 @@
 #+title: Ada E7 Weekly Notes250223
+
+* Algorithms and Poetry are Siblings
+
+Example:
+
+J.S. Bach Sonata for Violin and Keyboard No. 5 in F minor, BWV 1018, 3d Movement: Adagio.
+
+The Adagio is in C minor (or F dorian). It is written as a double dialogue.  The two speakers in the dialogue speak or sing in contrasting distinct manner: The violin in even, steadily pulsating quavers like heartbeats or like slowly paced walking.  The piano on the other hand in elegantly flowing flourishes of triplet semiquavers, like waves or flowing water.  At the same time, each of the voices is also split into two parts that are in dialogue with each other, in contrasting manner:
+
+Dialogue layer 1:
+
+Question: What do the gestures in the two different voices of the dialogue (violin and keyboard) suggest to you?  If these were voices of two narrators, who would these narrators be, and what would be their characters and personalities?
+
+* Unity of Arts: Music is in Poetry is in Painting
+
+Example:
+
+Cyclic metric and melodic structures in Indian music and in western music.
+Ouroboros in the ostinato melody accompanying south indian drumming, in the rhythm encoding syllables of Indian music, in western carol songs (κάλαντα), in dance forms like Chaconne, Passacaglia, Ground, and in a large number of African and Latin American dance forms, etc.
+
+The circle symbol in Zen painting as ouroboros.
+
+Questions:
+- Are the cyclic patterns in carols (and other )
+-
+
+* Algorithmic construction principles in out-of-time and in-time musical structures
+
+The 7-5 uneven division of 12:
+- In the design of the diatonic scale (see also piano keyboard)
+- In the design of
+
+Reference:
+
+Examples:
+Martin Scherzinger: Mathematics of African Dance Rhythms.
+https://www.youtube.com/watch?v=2TgFp76Rnig
+
+Tabla soli with accompanied by cyclic melody pattern
+
+- Female Tabla Player - Mitali Khargonkar Vinchurkar https://www.youtube.com/watch?v=dA6LeyfmE9E
+- Mitali Khargonkar Vinchurkar ( Tribute to ustad Jahangeer Khan Sahab ) https://www.youtube.com/watch?v=12BUw_STDVc
+- An offering to Abbaji Ustad Allarakha Kha Sahab By Mitali Khargonkar Vinchurkar https://www.youtube.com/watch?v=cYkmfk_y5DE
+
+Compare to Passacaglia.
+
+Striking passacaglia example using just a 4 note theme/ground:
+BIBER PASSACAGLIA - Elicia Silverstein, violinist https://www.youtube.com/watch?v=sgcR183f8gA
+
+
+
+Exercise / Question: How is one cyclic pattern shifted in phase difference over another pattern? Illustrate the meaning of phase shifting in metric patterns.
