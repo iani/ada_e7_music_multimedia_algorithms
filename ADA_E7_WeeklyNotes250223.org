@@ -11,18 +11,30 @@ The Adagio is in C minor (or F dorian). It is written as a double dialogue. The 
 - (a) The two speakers in the dialogue speak or sing in contrasting distinct manner: The violin in even, steadily pulsating quavers like heartbeats or like slowly paced walking.  The piano on the other hand in elegantly flowing flourishes of triplet semiquavers, like waves or flowing water.
 - (b) At the same time, each of the voices is also split into two parts that are in dialogue with each other, in contrasting manner:
   - The violin plays in double stops, i.e. two notes at a time: The two voices start by just singing together in harmony, but over the course of the piece, one voice starts answering the other voice in 4 note or 8 note motifs.
-  - The
-
-Dialogue layer 1:
+  - The keyboard plays a dialogue between the left and right hand.  The right hand answers the left hand phrase by phrase.
 
 ** Reference to medieval lating hymnography: Pange Lingua
 
+The rhythmic pattern and melody of the violin is clearly structured in groups of 16 notes with the distinct metric pattern of 8 groups of 2 beats in a regular stressed - unstressed order:
+/ x / x / x / x / x / x / x / x
+This regular flow of stressed-unstressed beats creates two semantic associations:
+1. Regular heart beats or breathing, which the even and minimal melodic line suggests could be linked to singing or inwardly meditatnbg a prayer.
+2. Walking in a slow and regular pace
+
+This metric pattern and the prayer mood suggested by the shape of the melody is further enhanced by the association to a characteristic metric pattern of latin hymnology.  It is the trochaic tetrameter and its closely associated trochaic septernarius https://en.wikipedia.org/wiki/Trochaic_septenarius. a 15 syllable metric scheme of 7th century Greek origin widely used in latin hymnography.
+
+| – u – x | – u – x || – u – x | – u – |
+
+or (as used in Roman comedy):
+
+| – x – x | – x – x || – x – x | – u – |
 
 
 ** PerformancesExamples:
 
 J.S. Bach Sonata for Violin and Keyboard No. 5 in F minor, BWV 1018, 3d Movement: Adagio
 Interpretation by Viktoria Mullova and Ottavio Dantone: https://www.youtube.com/watch?v=W_La_2WDmd8
+Interpretation by Andrew Manze and Richard Egarr: https://www.youtube.com/watch?v=UlxgxG6ab50 ("Sonata in F Minor, BWV 1018: III. Adagio")
 Interpretation with score: https://youtu.be/eVemQvcLy64?t=747
 
 ** Scores
@@ -35,6 +47,16 @@ What do the gestures in the two different voices of the dialogue (violin and key
 
 ** Question 2:
 
+Which known greek poem uses the same meter as "Pange Lingua".
+
+** Question 3:
+
+Are there popular greek dances that use the same meter as "Pange Lingua"? Which ones?
+
+** Question 4:
+
+Compare the character of the metric scheme of Pange Lingua with the corresponding metric scheme with the same number of syllables in greek popular poetry.
+
 * Unity of Arts: Music is in Poetry is in Painting
 
 ** Example:
@@ -42,11 +64,12 @@ What do the gestures in the two different voices of the dialogue (violin and key
 Cyclic metric and melodic structures in Indian music and in western music.
 Ouroboros in the ostinato melody accompanying south indian drumming, in the rhythm encoding syllables of Indian music, in western carol songs (κάλαντα), in dance forms like Chaconne, Passacaglia, Ground, and in a large number of African and Latin American dance forms, etc.
 
-The circle symbol in Zen painting as ouroboros. Example:
+The circle symbol in Zen painting as ouroboros. The characteristic circle motiv in Zen painting is called Ensō (円相, "circular form") (https://en.wikipedia.org/wiki/Ensō). The Ensō is also associated with 10 drawings coupled with 10 poems serving as similes for meditation practice, also known as the Ten Bulls. https://en.wikipedia.org/wiki/Ten_Bulls.
 
 ** Questions:
-- Are the cyclic patterns in carols (and other )
--
+- Do the cyclic patterns in carols (and other music) in the west constitute a symbolic reference to cyclic nature of time?  How does their use in particular festivals indicate this?
+- Where else are references and representation of cyclical time found in visual arts, poetry and music?
+- What is the significance of cyclical time in a contemporary context?
 
 ** Algorithmic construction principles in out-of-time and in-time musical structures
 
@@ -54,18 +77,18 @@ The 7-5 uneven division of 12:
 - In the design of the diatonic scale (see also piano keyboard)
 - In the division of the 12 beat metre into a 7 beat and a 5 beat pattern in African and Afroamerican music.
 
-Reference:
-
 Examples:
+
 **** Martin Scherzinger: Mathematics of African Dance Rhythms.
 https://youtu.be/2TgFp76Rnig?t=303
+
 **** Tabla soli with accompanied by cyclic melody pattern
 
 - Female Tabla Player - Mitali Khargonkar Vinchurkar https://www.youtube.com/watch?v=dA6LeyfmE9E
 - Mitali Khargonkar Vinchurkar ( Tribute to ustad Jahangeer Khan Sahab ) https://www.youtube.com/watch?v=12BUw_STDVc
 - An offering to Abbaji Ustad Allarakha Kha Sahab By Mitali Khargonkar Vinchurkar https://www.youtube.com/watch?v=cYkmfk_y5DE
 
-Exercise / Question: How is one cyclic pattern shifted in phase difference over another pattern? Illustrate the meaning of phase shifting in metric patterns.
+***** Exercise / Question: How is one cyclic pattern shifted in phase difference over another pattern? Illustrate the meaning of phase shifting in metric patterns.
 
 **** Passacaglia.
 
@@ -77,5 +100,9 @@ BIBER PASSACAGLIA - Elicia Silverstein, violinist https://www.youtube.com/watch?
 International Conference on the Zero: Mathematics in Indian Music
 https://youtu.be/wSIu11HxkdY?t=2230
 
-Exercise 1: Find the ancient greek names of the 8 3-syllable patterns encoded by yamātārājabhānasalagā
-Exercise 2/Question:
+Exercise: Find the ancient greek names of the 8 3-syllable patterns encoded by yamātārājabhānasalagā
+Exercise/Questions:
+- To what extent in your opinion can such a method for encoding metric patterns be used as a kind of oral notation for musical pieces?
+- How far do you imagine this is being used in traditional Indian music?
+- How do you speculate could such principles of metric encoding be used as techniques for notation in modern music and contemporary art?
+- Are there analogous patterns and / or construction and design techniques in the visual arts?
