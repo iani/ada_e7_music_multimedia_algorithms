@@ -1,0 +1,8 @@
+#+title: Topics Concepts Notions Keywords250223ff
+
+* Cycle
+* Phase
+* Series
+* Early Approximation of Pi (by Series)
+
+Powell’s Pi Paradox: the genius 14th century Indian solution https://www.youtube.com/watch?v=ypxKzWi-Bwg
