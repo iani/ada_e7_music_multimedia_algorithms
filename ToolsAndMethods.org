@@ -3,6 +3,67 @@
 #+title: Readme Tools Methods
 
 * Recommended Editors (using plain text for notes)
+1. visual studio code https://code.visualstudio.com
+2. pulsar https://pulsar-edit.dev
+
+* Recommended format: md or org
+
+Use markdown (.md) (or alternatively org mode .org)
+
+** Guides for markdown
+
+The Plain Person’s Guide to Plain-Text Social Science. Kieran Healy
+https://kieranhealy.org/files/papers/plain-person-text.pdf
+
+* Submitting and sharing your work
+
+Create an account on github https://github.com
+or gitlab https://gitlab.com
+
+Create a repository with your name and the name of the class.
+
+Upload your work in markdown format to this repository.
+
+* Converting markdown to other formats
+Use pandoc
+
+https://pandoc.org
+
+* Recommended file name conventions:
+
+<content descriptive title><date><count>_<AuthorInitials>.org
+Example:
+
+ThesisOutline250221a_AA.org
+
+Optionally use underscore (_) as separator. But ONLY underscore!
+* Recommended bibliography and quotes (references) format: APA
+
+APA style
+
+https://apastyle.apa.org
+
+Alternative format: Chicago B author-date
+
+* Other recommended software
+
+- Editor: EMACS
+- Text format: =org mode= (=org=) or markdown (=md=)
+- Converter to LaTeX (or other formats): pandoc
+- Converter from LaTeX to pdf: LaTeX, Xelatex, lualatex etc. (MacOS: TeX live software package) https://www.tug.org/texlive/
+- Bibliography: BibTex. (Included in TeX, LaTeX)
+
+* Writing advice and guidelines (IMPORTANT, highly recommended:)
+https://owl.purdue.edu
+
+* Notes/Writing/Organizing methodology suggestion: Zettelkasten
+
+https://www.youtube.com/watch?v=rOSZOCoqOo8&t=17s
+https://www.youtube.com/watch?v=GpV47rUYk8I
+https://www.youtube.com/watch?v=CAerQtNkGT0
+#+title: Readme Tools Methods
+
+* Recommended Editors (using plain text for notes)
 1. vsstudio
 2. pulsar
 
@@ -38,7 +99,7 @@ https://apastyle.apa.org
 Alternative format: Chicago B author-date
 
 * Other recommended software
-
+- Music and sound programming: SuperCollider https://supercollider.github.io/downloads.html
 - Editor: vscode (or EMACS)
 - Text format: =org mode= (=org=) or markdown (=md=)
 - Converter to LaTeX (or other formats): pandoc
