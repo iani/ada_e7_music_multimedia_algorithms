@@ -15,11 +15,62 @@ https://www.youtube.com/watch?v=NBF7QWmSOKo&ab_channel=FracFranche-Comt%C3%A9
 
 In this session, we program a port of this score to the SuperCollider environment. We examine the algorithmic potential of the score and its sonic behavior.
 
-** Part 1: A port of the piece in sccode.org
+* Part 1: A port of the piece in sccode.org
 
-*** Ali Balighi's port at sccode
+** Ali Balighi's port at sccode
 Ali Balighi published a port of the Metronome piece score on online collection of SuperCollider at:  https://sccode.org/1-5ir
 
 The same code is also found as a separate scd file in the present repository at: [[file:Code/Code_250307/01_Metronome_sccode.scd][Metronome file - sccode]]
 
 This code is based on Ppar pattern player. The resulting sound is not clearly related to the expected sound from the score instructions
+
+** Analysis and tests
+
+Code: [[[file:Code/Code_250307/02_Metronome_Analysis.scd]]]
+
+We test playing small numbers of metronomes using routines.
+We analyse the behaviour of emerging patterns depending on the
+
+* Part 2 A different port using busses
+
+* Part 3 Cycles and Minimalism
+
+The Minimalist movement flourished in the USA almost in parallel to the Fluxus movement which influenced the creation of Ligeti's Metronome piece.  Many of Steve Reich's pieces rely on the generation of patterns through repetition. Examples:
+
+** Music For 18 Musicians
+
+Steve Reich, "Music for 18 Musicians" - FULL PERFORMANCE with eighth blackbird
+https://www.youtube.com/watch?v=ZXJWO2FQ16c&ab_channel=VicFirth
+
+** Clapping music
+
+Clapping Music (1972) / Steve Reich
+https://www.youtube.com/watch?v=YPU5XrmORCQ&ab_channel=slvgallo
+
+Steve Reich : Clapping music
+https://www.youtube.com/watch?v=EYJo27ibtF4&ab_channel=FranceMusiqueconcerts
+
+clapping music ballet
+https://www.youtube.com/watch?v=HBWWF3ArW-w&ab_channel=runo94
+Anne Teresa De Keersmaeker's
+
+*** Fase
+
+https://www.lamonnaiedemunt.be/en/program/859-fase-four-movements-to-the-music-of-steve-reich#:~:text='%20Fase%20marked%20Anne%20Teresa%20De,the%20US%20minimalist%20Steve%20Reich.
+
+#+begin_quote
+    ‘Fase was the first piece where I taught myself to choreograph, and there is a transparency to it, and something intuitive that is reflected above all in the vocabulary.’ Fase marked Anne Teresa De Keersmaeker’s breakthrough as a choreographer in 1982. It comprises three duets and a solo, choreographed to four repetitive compositions by the US minimalist Steve Reich. De Keersmaeker uses the structure of Reich’s music to develop an independent choreographic idiom that does not merely illustrate the music, but also adds a new dimension to it. Both the music and the dance start from the principle of phase shifting through tiny variations: movements that are, initially, perfectly synchronous gradually start slipping and sliding, resulting in an ingenious play of continuously shifting forms and patterns. Having always danced Fase herself, Anne Teresa De Keersmaeker, for the first time in the work’s history, is passing it on to two new dancers.
+#+end_quote
+
+*** Fase trailer:
+https://www.facebook.com/watch/?v=326353651257141
+
+*** Fase full video
+Anne Teresa De Keersmaeker - Fase (Four Movements to the Music of Steve Reich)
+https://www.youtube.com/watch?v=Zvle-e4BJfk&ab_channel=LychBook
+
+** Come out to show them
+
+Steve Reich - Come Out
+
+https://www.youtube.com/watch?v=ouYiTiiY3vg&ab_channel=carpedei
