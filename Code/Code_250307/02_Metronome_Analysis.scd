@@ -9,12 +9,24 @@ Examples:
 If the durations are 2 and 1, the
 */
 
+//:metronome SynthDef needed for the examples below:
+
+SynthDef(\metronome, { |freq = 440, amp = 0.01, decay = 0.02, pan = 0|
+	var env = EnvGen.kr(Env.perc(0.001, decay), doneAction: 2); // Envelope for short tick
+	var signal = SinOsc.ar(freq) * env * amp; // Sound generation
+	Out.ar(0, Pan2.ar(signal, pan)); // Output with panning
+}).add
+
 //:Empirical Illustrations:
 //Metronomes with a beat ratio of 2/1 beat together every 2 beats
 //of the shortes beat duration:
 //: 60 and 120 bpm
 /*
 	Ratio of of 60 and 120 is 1/2. The least common multiple of
+	2 and 1 is 2, so the beats meet every 2 beats of 120bpm.
+	Note that a beat at 120 bpm (0.5 sec) has a shorter duration
+ 	than one at 60 bpm (1 sec). So the metronomes meet every
+	2 x 0.5 sec = 1.0 sec.
 */
 [60, 120] do: { | i |
     {
@@ -75,6 +87,26 @@ If the durations are 2 and 1, the
         loop {
             Synth(\metronome, [freq: 330 * (i+1/50 + 1), decay: 0.2]);
             (i/60).reciprocal.wait; // convert bpm to beat duration...
+        };
+    }.fork
+}
+//: [60, 61, 62 ... 160]:
+(60..160) do: { | i |
+    {
+        loop {
+            Synth(\metronome, [freq: 330 * (i+1/50 + 1), decay: 0.2]);
+            (i/60).reciprocal.wait; // convert bpm to beat duration...
+        };
+    }.fork
+}
+//: [60, 61, 62 ... 160], with random beat durations between 60 and 160 bpm:
+(60..160) do: { | i |
+    {
+		var dur;
+		dur = (160/60).reciprocal rrand: (60/60).reciprocal;
+        loop {
+            Synth(\metronome, [freq: 330 * (i+1/50 + 1), decay: 0.2]);
+            dur.wait; // convert bpm to beat duration...
         };
     }.fork
 }
