@@ -110,3 +110,51 @@ SynthDef(\metronome, { |freq = 440, amp = 0.01, decay = 0.02, pan = 0|
         };
     }.fork
 }
+
+//------------------------------------------------------------
+// Redoing the piece with the same parameter values as in the
+// port by Ali Balighi
+// The parameters are:
+/*
+        var numMetronomes = 100; // Number of metronomes
+        var bpmMin = 80; // Minimum BPM
+        var bpmMax = 240; // Maximum BPM
+        var freqMin = 440; // Minimum frequency
+        var freqMax = 880; // Maximum frequency
+        var beatsPerMetronome = 50; // Number of beats for each metronome to play
+*/
+//:create set of parameters, then use them
+(1..100).collect({
+	[
+		80 rrand: 240, // bpm
+		440 rrand: 880, // freq
+	]
+}) do: { | parameters |
+	var bpm, freq, dur;
+	#bpm, freq = parameters;
+	dur = (bpm/60).reciprocal;
+	{
+		50 do: {
+			Synth(\metronome, [freq: freq, decay: 0.2]);
+			dur.wait; // convert bpm to beat duration...
+		};
+	}.fork;
+}
+
+//:Same algorithm, with 200 beats for each metronome.
+(1..100).collect({
+	[
+		80 rrand: 240, // bpm
+		440 rrand: 880, // freq
+	]
+}) do: { | parameters |
+	var bpm, freq, dur;
+	#bpm, freq = parameters;
+	dur = (bpm/60).reciprocal;
+	{
+		200 do: {
+			Synth(\metronome, [freq: freq, decay: 0.2]);
+			dur.wait; // convert bpm to beat duration...
+		};
+	}.fork;
+}
