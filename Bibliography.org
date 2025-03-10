@@ -1,0 +1,5 @@
+#+title: Bibliography
+
+Βιβλιογραφία για το Μάθημα: Μουσική, Πολυμέσα και Αλγόριθμοι (Ε7)
+
+Packer, R. & Multimedia: From Wagner to Virtual Reality
