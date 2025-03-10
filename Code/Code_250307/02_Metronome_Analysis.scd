@@ -28,6 +28,29 @@ SynthDef(\metronome, { |freq = 440, amp = 0.01, decay = 0.02, pan = 0|
  	than one at 60 bpm (1 sec). So the metronomes meet every
 	2 x 0.5 sec = 1.0 sec.
 */
+//:
+Synth(\metronome, [amp: 2]);
+//:
+Synth(\metronome, [freq: 800, amp: 2]);
+//:
+{
+	loop {
+		Synth(\metronome, [freq: 800, amp: 1]);
+		1.wait;
+	}
+}.fork
+//:
+[5, 6].reciprocal do: { | dur, i |
+	{
+		// (i * 0.1).wait;
+		loop {
+			Synth(\metronome, [freq: 330 * (i+1/5 + 1), amp: 0.5, decay: 0.2]);
+			(dur).wait;
+		}
+	}.fork;
+}
+//:
+//:
 [60, 120] do: { | i |
     {
         loop {
@@ -135,7 +158,7 @@ SynthDef(\metronome, { |freq = 440, amp = 0.01, decay = 0.02, pan = 0|
 	dur = (bpm/60).reciprocal;
 	{
 		50 do: {
-			Synth(\metronome, [freq: freq, decay: 0.2]);
+			Synth(\metronome, [freq: freq, decay: 0.1]);
 			dur.wait; // convert bpm to beat duration...
 		};
 	}.fork;
@@ -153,7 +176,7 @@ SynthDef(\metronome, { |freq = 440, amp = 0.01, decay = 0.02, pan = 0|
 	dur = (bpm/60).reciprocal;
 	{
 		200 do: {
-			Synth(\metronome, [freq: freq, decay: 0.2]);
+			Synth(\metronome, [freq: freq, decay: 0.1]);
 			dur.wait; // convert bpm to beat duration...
 		};
 	}.fork;
