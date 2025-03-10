@@ -1,25 +1,26 @@
 #+title: Ada E7 Weekly Notes250223 Gr
 
-* Εκτός προγράμματος: Overture
+* Session 1 (250203): Algorithms, Music, Poetry, Art
+** Εκτός προγράμματος: Overture
 
 Mozart // La clemenza di Tito
 Bergen Nasjonale Opera
 https://youtu.be/YWtS9BDu410?t=321
 
-* Οι αλγόριθμοι, η ποίηση και η μουσική είναι αδέλφια
+** [fn:1]Οι αλγόριθμοι, η ποίηση και η μουσική είναι αδέλφια
 
 Παράδειγμα:
 
 Μπαχ Σονάτα για βιολί και πλήκτρα αρ. 5 σε φα ελάσσονα, BWV 1018, 3ο μέρος: Adagio. Αφήγηση και διάλογος με αναφορές σε μεσαιωνικούς ύμνους.
 
-** Διάλογος
+*** Διάλογος
 Το Adagio είναι σε ντο ελάσσονα (ή φα δοριανό). Είναι γραμμένο ως διπλός διάλογος. Τα δύο όργανα βρίσκονται σε διάλογο μεταξύ τους και ταυτόχρονα κάθε όργανο βρίσκεται σε διάλογο με τον εαυτό του!
 - (α) Οι δύο ομιλητές του διαλόγου μιλούν ή τραγουδούν με αντίθετο διακριτό τρόπο: Το βιολί με ομοιόμορφους, σταθερά παλλόμενους κίονες σαν καρδιακούς παλμούς ή σαν αργό περπάτημα.  Το πιάνο από την άλλη μεριά σε κομψά ρέοντα άνθη τριπλών ημικύκλιων, όπως τα κύματα ή το τρεχούμενο νερό.
 - (β) Ταυτόχρονα, κάθε μία από τις φωνές χωρίζεται επίσης σε δύο μέρη που συνομιλούν μεταξύ τους, με αντιθετικό τρόπο:
   - Το βιολί παίζει με διπλά στοπ, δηλαδή δύο νότες κάθε φορά: Οι δύο φωνές ξεκινούν τραγουδώντας απλώς μαζί σε αρμονία, αλλά κατά τη διάρκεια του κομματιού, η μία φωνή αρχίζει να απαντά στην άλλη φωνή σε μοτίβα 4 ή 8 νοτών.
   - Το πληκτρολόγιο παίζει έναν διάλογο μεταξύ του αριστερού και του δεξιού χεριού.  Το δεξί χέρι απαντά στο αριστερό χέρι φράση προς φράση.
 
-** Αναφορά στη μεσαιωνική υμνογραφία: Pange Lingua
+*** Αναφορά στη μεσαιωνική υμνογραφία: Pange Lingua
 
 Το ρυθμικό μοτίβο και η μελωδία του βιολιού είναι σαφώς δομημένα σε ομάδες των 16 νοτών με το διακριτό μετρικό μοτίβο των 8 ομάδων των 2 κτύπων σε μια κανονική σειρά τονισμένων - μη τονισμένων:
 / x / x / x / x / x / x / x / x / x / x / x / x
@@ -36,49 +37,49 @@ https://youtu.be/YWtS9BDu410?t=321
 | - x - x | - x - x || - x - x | - u - |
 
 
-** Παραστάσεις/Παραδείγματα:
+*** Παραστάσεις/Παραδείγματα:
 
 Bach Σονάτα για βιολί και πλήκτρα αρ. 5 σε φα ελάσσονα, BWV 1018, 3ο μέρος: Adagio
 Ερμηνεία από τους Viktoria Mullova και Ottavio Dantone: https://www.youtube.com/watch?v=W_La_2WDmd8
 Ερμηνεία από τους Andrew Manze και Richard Egarr: https://www.youtube.com/watch?v=UlxgxG6ab50 («Σονάτα σε φα ελάσσονα, BWV 1018: III. Adagio»)
 Ερμηνεία με παρτιτούρα: https://youtu.be/eVemQvcLy64?t=747
 
-** Παρτιτούρες
+*** Παρτιτούρες
 
 https://imslp.org/wiki/6_Violin_Sonatas,_BWV_1014-1019_(Bach,_Johann_Sebastian)
 
-** Ερώτηση 1:
+*** Ερώτηση 1:
 
 Τι σας υποδηλώνουν οι χειρονομίες στις δύο διαφορετικές φωνές του διαλόγου (βιολί και πλήκτρα);  Αν πρόκειται για τις φωνές δύο αφηγητών, ποιοι θα ήταν αυτοί οι αφηγητές και ποιοι θα ήταν οι χαρακτήρες και οι προσωπικότητές τους;
 
-** Ερώτηση 2:
+*** Ερώτηση 2:
 
 Ποιο γνωστό ελληνικό ποίημα χρησιμοποιεί το ίδιο μέτρο με το «Pange Lingua».
 
-** Ερώτηση 3:
+*** Ερώτηση 3:
 
 Υπάρχουν γνωστοί ελληνικοί χοροί που χρησιμοποιούν το ίδιο μέτρο με το «Pange Lingua»; Ποιοι;
 
-** Ερώτηση 4:
+*** Ερώτηση 4:
 
 Συγκρίνετε το χαρακτήρα του μετρικού σχήματος του «Pange Lingua» με το αντίστοιχο μετρικό σχήμα με τον ίδιο αριθμό συλλαβών στην ελληνική δημοτική ποίηση.
 
 
-* Ενότητα των Τεχνών: Η Μουσική είναι στην Ποίηση είναι στη Ζωγραφική
+** Ενότητα των Τεχνών: Η Μουσική είναι στην Ποίηση είναι στη Ζωγραφική
 
-** Παράδειγμα:
+*** Παράδειγμα:
 
 Κυκλικές μετρικές και μελωδικές δομές στην ινδική μουσική και στη δυτική μουσική.
 Ουροβόρος στη μελωδία ostinato που συνοδεύει τα νοτιο-ινδικά τύμπανα, στο ρυθμό που κωδικοποιεί συλλαβές της ινδικής μουσικής, στα δυτικά κάλαντα, σε χορευτικές φόρμες όπως η Chaconne, η Passacaglia, η Ground, και σε μεγάλο αριθμό αφρικανικών και λατινοαμερικάνικων χορευτικών μορφών κ.λπ.
 
 Το σύμβολο του κύκλου στη ζωγραφική Ζεν ως ουροβόρος. Το χαρακτηριστικό κυκλικό κίνητρο στη ζωγραφική Ζεν ονομάζεται Ensō (円相, «κυκλική μορφή») (https://en.wikipedia.org/wiki/Ensō). Το Ensō συνδέεται επίσης με 10 σχέδια σε συνδυασμό με 10 ποιήματα που χρησιμεύουν ως παρομοιώσεις για την πρακτική του διαλογισμού, γνωστά και ως οι Δέκα Ταύροι. https://en.wikipedia.org/wiki/Ten_Bulls.
 
-** Ερωτήσεις:
+*** Ερωτήσεις:
 - Αποτελούν τα κυκλικά μοτίβα στα κάλαντα (και σε άλλη μουσική) στη Δύση συμβολική αναφορά στην κυκλική φύση του χρόνου;  Με ποιον τρόπο η χρήση τους σε συγκεκριμένες γιορτές υποδηλώνει κάτι τέτοιο;
 - Πού αλλού υπάρχουν αναφορές και αναπαραστάσεις του κυκλικού χρόνου στις εικαστικές τέχνες, την ποίηση και τη μουσική;
 - Ποια είναι η σημασία του κυκλικού χρόνου στο σύγχρονο πλαίσιο;
 
-** Αρχές αλγοριθμικής κατασκευής σε μουσικές δομές εκτός και εντός χρόνου
+*** Αρχές αλγοριθμικής κατασκευής σε μουσικές δομές εκτός και εντός χρόνου
 
 Η άνιση διαίρεση 7-5 του 12:
 - Στο σχεδιασμό της διατονικής κλίμακας (βλ. επίσης πληκτρολόγιο πιάνου)
@@ -86,24 +87,24 @@ https://imslp.org/wiki/6_Violin_Sonatas,_BWV_1014-1019_(Bach,_Johann_Sebastian)
 
 Παραδείγματα:
 
-**** Martin Scherzinger: Μαθηματικά των ρυθμών των αφρικανικών χορών.
+***** Martin Scherzinger: Μαθηματικά των ρυθμών των αφρικανικών χορών.
 https://youtu.be/2TgFp76Rnig?t=303
 
-**** Σόλι τάμπλα με συνοδεία κυκλικής μελωδίας
+***** Σόλι τάμπλα με συνοδεία κυκλικής μελωδίας
 
 - Γυναίκα παίκτρια τάμπλα - Mitali Khargonkar Vinchurkar https://www.youtube.com/watch?v=dA6LeyfmE9E
 - Mitali Khargonkar Vinchurkar ( Αφιέρωμα στον ustad Jahangeer Khan Sahab ) https://www.youtube.com/watch?v=12BUw_STDVc
 - An offering to Abbaji Ustad Allarakha Kha Sahab By Mitali Khargonkar Vinchurkar https://www.youtube.com/watch?v=cYkmfk_y5DE
 
-***** Ερώτηση / Άσκηση:
+****** Ερώτηση / Άσκηση:
 Πώς ένα κυκλικό μοτίβο μετατοπίζεται σε διαφορά φάσης σε σχέση με ένα άλλο μοτίβο; Παρουσιάστε την έννοια της μετατόπισης φάσης σε μετρικά μοτίβα.
 
-**** Passacaglia.
+***** Passacaglia.
 
 Εντυπωσιακό παράδειγμα passacaglia με χρήση μόνο ενός θέματος/υπόβαθρου 4 νοτών:
 BIBER PASSACAGLIA - Elicia Silverstein, βιολιστής https://www.youtube.com/watch?v=sgcR183f8gA
 
-**** Manjul Bhargava σχετικά με τη μετρική κωδικοποίηση "yamātārājabhānasalagā"
+***** Manjul Bhargava σχετικά με τη μετρική κωδικοποίηση "yamātārājabhānasalagā"
 
 Διεθνές συνέδριο για το μηδέν: Τα μαθηματικά στην ινδική μουσική
 https://youtu.be/wSIu11HxkdY?t=2230
@@ -114,3 +115,93 @@ https://youtu.be/wSIu11HxkdY?t=2230
 - Σε ποιο βαθμό φαντάζεστε ότι χρησιμοποιείται στην παραδοσιακή ινδική μουσική;
 - Με ποιον τρόπο υποθέτετε ότι θα μπορούσαν τέτοιες αρχές μετρικής κωδικοποίησης να χρησιμοποιηθούν ως τεχνικές σημειογραφίας στη σύγχρονη μουσική και στη σύγχρονη τέχνη;
 - Υπάρχουν ανάλογα μοτίβα ή/και τεχνικές κατασκευής και σχεδιασμού στις εικαστικές τέχνες;
+* Session 2: (250307): Algorithms, Cycles and Fluxus Scores in Avant-garde music
+
+Starting point:  György Ligeti, "Poème symphonique" for 100 Metronomes
+
+#+begin_quote
+Poème symphonique is a 1962 composition by György Ligeti for one hundred mechanical metronomes. It was written during his brief acquaintance with the Fluxus movement.
+
+The piece requires ten "performers", each one responsible for ten of the hundred metronomes. The metronomes are set up on the performance platform, and they are then all wound to their maximum extent and set to different speeds. Once they are all fully wound, there is a silence of two to six minutes, at the discretion of the conductor; then, at the conductor's signal, all of the metronomes are started as simultaneously as possible. The performers then leave the stage. As the metronomes wind down one after another and stop, periodicity becomes noticeable in the sound, and individual metronomes can be more clearly distinguished. The piece typically ends with just one metronome ticking alone for a few beats, followed by silence, and then the performers return to the stage.
+#+end_quote
+
+A performance of this piece can be seen at:
+https://www.youtube.com/watch?v=NBF7QWmSOKo&ab_channel=FracFranche-Comt%C3%A9
+
+
+In this session, we program a port of this score to the SuperCollider environment. We examine the algorithmic potential of the score and its sonic behavior.
+
+** Part 1: A port of the piece in sccode.org
+
+Separate scd file: [file:Metronome_sccode.scd]
+The following port was published on online collection of SuerCollider
+
+#+begin_src sclang
+//From: https://sccode.org/1-5ir
+/*
+Program Note:
+This piece is inspired by György Ligeti's Poème Symphonique for 100 Metronomes, a work composed in 1962 that explores the concept of a musical labyrinth and the auditory perception of infinity. Drawing on Ligeti's idea of parallel mirrors reflecting endless images, this program replicates the hypnotic and mesmerizing effect of overlapping independent tempos created by multiple metronomes.
+Using modern digital synthesis, the program simulates the gradual deceleration and silencing of 100 independent metronomes distributed across a stereo sound field. Each metronome is set to a unique frequency (spanning from 440 Hz to 880 Hz), tempo (ranging from 80 to 240 BPM), and stereo position (panned across the left and right channels). Instead of physical metronomes placed on resonant surfaces like in Ligeti's original performance, the digital audio synthesis reproduces their ticking pulses to emulate the acoustic complexity and variation.
+
+Similar to the original performance instructions:
+
+- Each metronome operates at its own tempo, creating a complex interplay of rhythms.
+
+- The performance begins with all metronomes ticking simultaneously, but over time, the staggered tempi cause individual ticks to dissolve into silence.
+
+- The spatial panning enhances the sense of physicality and unpredictability inherent in the original piece.
+
+Ali Balighi
+www.alibalighi.com
+© 2025 by Ali Balighi
+
+*/
+
+//:Part 1:
+(
+// Boot the server and define the SynthDef
+s.waitForBoot {
+    SynthDef(\metronome, { |freq = 440, amp = 0.01, decay = 0.02, pan = 0|
+        var env = EnvGen.kr(Env.perc(0.001, decay), doneAction: 2); // Envelope for short tick
+        var signal = SinOsc.ar(freq) * env * amp; // Sound generation
+        Out.ar(0, Pan2.ar(signal, pan)); // Output with panning
+    }).add;
+
+    // Start playing the pattern
+    s.sync;
+
+    // Use a function block to ensure variables are scoped properly
+    {
+        // Declare and initialize the required variables
+        var numMetronomes = 100; // Number of metronomes
+        var bpmMin = 80; // Minimum BPM
+        var bpmMax = 240; // Maximum BPM
+        var freqMin = 440; // Minimum frequency
+        var freqMax = 880; // Maximum frequency
+        var beatsPerMetronome = 50; // Number of beats for each metronome to play
+
+        // Linearly distributed parameters
+        var tempos = Array.fill(numMetronomes, { |i| bpmMin + (bpmMax - bpmMin) * (i / (numMetronomes - 1)) });
+        var frequencies = Array.fill(numMetronomes, { |i| freqMin + (freqMax - freqMin) * (i / (numMetronomes - 1)) });
+        var pans = Array.fill(numMetronomes, { |i| -1 + 2 * (i / (numMetronomes - 1)) }); // Spread panning between -1 and 1
+
+        // Combine parameters into Pbind and Pseq
+        Ppar(
+            tempos.collect { |tempo, index|
+                Pbind(
+                    \instrument, \metronome,                         // Use the \metronome SynthDef
+                    \freq, frequencies[index],                     // Assign unique frequency
+                    \pan, pans[index],                             // Assign unique stereo position
+                    \amp, 0.05,                                    // Set amplitude
+                    \dur, Pseq([(60 / tempo)], beatsPerMetronome)   // Duration (tempo) repeated
+                )
+            }
+        ).play;
+    }.value; // Call the function block
+};
+)
+//:Part 2: Testing the metronome synth from above:
+Synth(\metronome);
+#+end_src
+
+* Footnotes
