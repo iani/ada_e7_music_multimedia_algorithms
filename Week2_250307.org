@@ -26,12 +26,14 @@ This code is based on Ppar pattern player. The resulting sound is not clearly re
 
 ** Analysis and tests
 
-Code: [[[file:Code/Code_250307/02_Metronome_Analysis.scd]]]
+Code: [[file:Code/Code_250307/02_Metronome_Analysis.scd]]
 
 We test playing small numbers of metronomes using routines.
 We analyse the behaviour of emerging patterns depending on the
 
 * Part 2 A different port using busses
+
+See code in: file:Code/Code_250307/03_RecodeWithBuses.scd
 
 * Part 3 Cycles and Minimalism
 
@@ -74,3 +76,10 @@ https://www.youtube.com/watch?v=Zvle-e4BJfk&ab_channel=LychBook
 Steve Reich - Come Out
 
 https://www.youtube.com/watch?v=ouYiTiiY3vg&ab_channel=carpedei
+
+* Part 4 Coding cycles in Latin american dance rhythms.
+
+An example from sccode is stored at:
+[[file:Code/Code_250307/04_CompactCycleCoding.scd]]
+
+Analysis and variations are forthcoming in future sessions of this class.
