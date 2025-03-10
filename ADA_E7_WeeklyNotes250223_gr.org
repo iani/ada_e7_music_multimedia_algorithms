@@ -134,6 +134,7 @@ In this session, we program a port of this score to the SuperCollider environmen
 ** Part 1: A port of the piece in sccode.org
 
 Separate scd file: [file:Metronome_sccode.scd]
+[[file:Metronome_sccode.scd]]
 The following port was published on online collection of SuerCollider
 
 #+begin_src sclang
