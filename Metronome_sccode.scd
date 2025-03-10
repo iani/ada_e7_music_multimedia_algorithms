@@ -2,21 +2,21 @@
 /*
 Program Note:
 
-	This piece is inspired by György Ligeti's Poème Symphonique for 100
-	Metronomes, a work composed in 1962 that explores the concept of a musical
-	labyrinth and the auditory perception of infinity. Drawing on Ligeti's idea
-	of parallel mirrors reflecting endless images, this program replicates the
-	hypnotic and mesmerizing effect of overlapping independent tempos created by
-	multiple metronomes.
+This piece is inspired by György Ligeti's Poème Symphonique for 100
+Metronomes, a work composed in 1962 that explores the concept of a musical
+labyrinth and the auditory perception of infinity. Drawing on Ligeti's idea
+of parallel mirrors reflecting endless images, this program replicates the
+hypnotic and mesmerizing effect of overlapping independent tempos created by
+multiple metronomes.
 
-	Using modern digital synthesis, the program simulates the gradual
-	deceleration and silencing of 100 independent metronomes distributed across
-	a stereo sound field. Each metronome is set to a unique frequency (spanning
-	from 440 Hz to 880 Hz), tempo (ranging from 80 to 240 BPM), and stereo
-	position (panned across the left and right channels). Instead of physical
-	metronomes placed on resonant surfaces like in Ligeti's original
-	performance, the digital audio synthesis reproduces their ticking pulses to
-	emulate the acoustic complexity and variation.
+Using modern digital synthesis, the program simulates the gradual
+deceleration and silencing of 100 independent metronomes distributed across
+a stereo sound field. Each metronome is set to a unique frequency (spanning
+from 440 Hz to 880 Hz), tempo (ranging from 80 to 240 BPM), and stereo
+position (panned across the left and right channels). Instead of physical
+metronomes placed on resonant surfaces like in Ligeti's original
+performance, the digital audio synthesis reproduces their ticking pulses to
+emulate the acoustic complexity and variation.
 
 Similar to the original performance instructions:
 
