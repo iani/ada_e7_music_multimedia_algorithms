@@ -13,7 +13,6 @@ The piece requires ten "performers", each one responsible for ten of the hundred
 A performance of this piece can be seen at:
 https://www.youtube.com/watch?v=NBF7QWmSOKo&ab_channel=FracFranche-Comt%C3%A9
 
-
 In this session, we program a port of this score to the SuperCollider environment. We examine the algorithmic potential of the score and its sonic behavior.
 
 ** Part 1: A port of the piece in sccode.org
