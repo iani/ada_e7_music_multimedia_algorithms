@@ -26,14 +26,14 @@ This code is based on Ppar pattern player. The resulting sound is not clearly re
 
 ** Analysis and tests
 
-Code: [[file:Code/Code_250307/02_Metronome_Analysis.scd]]
+Code: [[file:Code/Code_250307/02_Metronome_Analysis.scd][02_Metronome_Analysis.scd]]
 
 We test playing small numbers of metronomes using routines.
 We analyse the behaviour of emerging patterns depending on the
 
 * Part 2 A different port using busses
 
-See code in: file:Code/Code_250307/03_RecodeWithBuses.scd
+See code in: [[file:Code/Code_250307/03_RecodeWithBuses.scd][03_RecodeWithBuses.scd]]
 
 * Part 3 Cycles and Minimalism
 
