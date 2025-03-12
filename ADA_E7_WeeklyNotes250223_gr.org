@@ -136,4 +136,5 @@ In this session, we program a port of this score to the SuperCollider environmen
 First we examine a port by Ali Balighi published in [[https://sccode.org/1-5ir][sccode.org]]
 (Copied in the present repository as: [[file:Code/Code_250307/Metronome_sccode.scd][Metronome from sccode]])
 
+
 * Footnotes

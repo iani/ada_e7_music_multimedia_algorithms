@@ -1,4 +1,4 @@
-//Recoding the Ligeti Metronome piece using busses to
+ //Recoding the Ligeti Metronome piece using busses to
 //transfer the triggering pulses to the synths.
 //This allows much greater timing accuracy, since the beat duration
 //is calculated in the server instead of sclang.
@@ -12,7 +12,6 @@ SynthDef(\wdblk, { | dt = 1, frqwd = 850,  wdv = 1 |
 	src = Resonz.ar(trig, frqwd, 0.04, wdv);
 	Out.ar(0, src);
 }).add
-
 )
 //:Try out one woodblock
 Synth(\wdblk);
@@ -114,8 +113,7 @@ SynthDef(\mmt0, {
 	);
 }).add;
 //:Look at the pattern of beats in a control bus scope
-m = Synth(\mmt0, [in: 0]);
-//:open scope to see bus channels
+m = Synth(\m0, [in: 0]);
 Server.default.scope(rate: \control, numChannels: 50);
 //:Test multiple metronome beats trigger synthdef
 m = Synth(\m0, [in: 0]);
