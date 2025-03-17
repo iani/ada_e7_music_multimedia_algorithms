@@ -1,0 +1,35 @@
+#+title: Week5 250324
+
+* Topic: Impressionism
+
+* Socioeconomic and technical origins
+
+- Acrylic colors
+- Rise of unemployment
+
+* Theoretical and research tenents and ojectives
+
+Reaction to Romanticism and Classicism, search of new theories and techniques.
+
+- Moving away from emotion depiction and towards objecivism - or rather symbolism.
+  - cf: Maurice Maeterlinck and symbolism
+- Embrace and explore physical theories of sound and color synthesis and psychological / physicological theories of sound and color perception.
+- Focus on objective depiction - research on object vs. stimulus vs, impression
+
+* Musical Examples
+
+** Frederic Chiu (Piano): "Reflections"
+
+Note the connotation of "Reflections" as thinking about and mirroring.
+
+*** Pieces
+
+**** Maurice Ravel: Miroirs
+
+**** Abel Decaux: Clairs de Lune
+
+**** Arnold Schoenberg: Drei Klavierstücke op. 11
+
+*** Comments on the pieces
+
+*** Exercise: Synthesise imitations of timbre and texture from the pieces using digial means (SuperCollider)
