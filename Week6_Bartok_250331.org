@@ -1,0 +1,45 @@
+#+title: Week6 250331
+
+*Topics: Hemachandra, Fibonacci, Bartok String Quartets*
+
+* Hemachandra, Fibonacci
+
+- Analyse Hemachandra's proof of Fibonacci numbers.
+  https://youtu.be/wSIu11HxkdY?t=744
+  Pingala (300 BC) "Every n-beat rhythm ends with either a short or a long."
+- Provide an implementation in SuperCollider
+- Give a sound example in SuperCollider using Hemachandra's algorithm
+  (Calculating all permutations of short-long syllables within an 8 beat bar.)
+- Give sound examples in SuperCollider using Hemachandra numbers as duration proportions, and as 12-tone tempered frequency proportions.
+
+* Bartok
+
+Refer to Ernő Lendvai's (1971), Béla Bartók: An Analysis of His Music.
+
+Music examples:
+
+** String Quartets No 2 and No 4.
+*** String Quartet No 2, played by Takacs Quartet
+I. Moderato https://www.youtube.com/watch?v=xhv6xgc4CAY&list=PLaK7FcaVcs_wzQoa9ybz7QCAPRcunZfPR&index=4&ab_channel=Tak%C3%A1csQuartet-Topic
+II. Allegro molto capriccioso
+https://www.youtube.com/watch?v=NEXhmqWvKgs&list=PLaK7FcaVcs_wzQoa9ybz7QCAPRcunZfPR&index=5&ab_channel=Tak%C3%A1csQuartet-Topic
+III. Lento
+https://www.youtube.com/watch?v=9nEBIOk1kwg&list=PLaK7FcaVcs_wzQoa9ybz7QCAPRcunZfPR&index=6&ab_channel=Tak%C3%A1csQuartet-Topic
+*** String Quartet No 4, played by Takacs Quartet
+I. Allegro
+https://www.youtube.com/watch?v=F_hoMKGbalY&list=PLaK7FcaVcs_wzQoa9ybz7QCAPRcunZfPR&index=10&ab_channel=Tak%C3%A1csQuartet-Topic
+II. Prestissimo, con sordino
+https://www.youtube.com/watch?v=0Ga15wRGYGk&list=PLaK7FcaVcs_wzQoa9ybz7QCAPRcunZfPR&index=11&ab_channel=Tak%C3%A1csQuartet-Topic
+III. Non troppo lento
+https://www.youtube.com/watch?v=TP74FhypOB0&list=PLaK7FcaVcs_wzQoa9ybz7QCAPRcunZfPR&index=12&ab_channel=Tak%C3%A1csQuartet-Topic
+IV. Allegretto pizzicato
+https://www.youtube.com/watch?v=InwUCs3htBg&list=PLaK7FcaVcs_wzQoa9ybz7QCAPRcunZfPR&index=13&ab_channel=Tak%C3%A1csQuartet-Topic
+V. Allegro molto
+https://www.youtube.com/watch?v=NcJxDfrPDns&list=PLaK7FcaVcs_wzQoa9ybz7QCAPRcunZfPR&index=14&ab_channel=Tak%C3%A1csQuartet-Topic
+** Music For Strings, Percussion and Celesta
+Music for Strings, Percussion and Celesta / Béla Bartók / Vasily Petrenko / Oslo Philharmonic
+https://www.youtube.com/watch?v=2EsNGS9vYe8&ab_channel=OsloPhilharmonic
+
+** Piano Suite "Out of Doors", Movement 4, "The Night's Music"
+Bela Bartok - Out of Doors, Sz. 81 (Seong-Jin Cho) (1926)
+https://www.youtube.com/watch?v=HePh-vTNK8o&t=409s
