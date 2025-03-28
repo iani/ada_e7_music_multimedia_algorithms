@@ -192,7 +192,7 @@ sequences.do { |seq| seq.postln };
 ~getAllSequences = { |n|
     var allSequences = List.new;
     ~generateSequences.(n, List.new, allSequences);
-    allSequences;
+    allSequences.array collect: _.array; // return Array, not List
 };
 
 //: Example usage

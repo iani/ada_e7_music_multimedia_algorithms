@@ -10,11 +10,11 @@ f = { | n = 1, nums = #[1, 1] |
 //:
 f.(15)
 //:Variant accumulating arrays - for hemachandra.
-f = { | n = 1, nums = #[1, 1] |
-	if (n < 3) {
+f = { | n = 1, nums = #[] |
+	if (n <= 0) {
 		nums
 	}{
-		thisFunction.(n - 1, (nums.copy) add: nums)
+		thisFunction.(n - 1, (nums.copy) add: n)
 	}
 }
 //:
