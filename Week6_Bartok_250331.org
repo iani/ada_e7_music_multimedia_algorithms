@@ -1,6 +1,12 @@
 #+title: Week6 250331
 
-*Topics: Hemachandra, Fibonacci, Bartok String Quartets*
+* Προτάσεις εργασιών
+
+** Γιώργος Πανάς
+
+  Μουικό κομμάτι εμπνευσμένο από τους Venetian Snares
+
+* Topics: Hemachandra, Fibonacci, Bartok String Quartets*
 
 * Hemachandra, Fibonacci
 

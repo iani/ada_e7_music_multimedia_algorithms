@@ -28,6 +28,7 @@ var n = 5;
 var sequences = ~getAllSequences.(n);
 sequences.do { |seq| seq.postln };
 )
+//:
 /* Explanation and trace of how the algorithm works (from chatgpt)
 
 Could you delineate or explain how this algorithm works by tracing the first steps in the generation of the first few sequences produced for a small initial n input?
